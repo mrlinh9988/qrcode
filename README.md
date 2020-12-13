@@ -19,3 +19,10 @@ Link to project: [click me](https://github.com/daycademy/advent-2020/tree/master
 Link to video: [click me](https://www.youtube.com/watch?v=7czUu-ajEo0&list=PL10piHcP2kVJ8MdarLwKmgdVVWgAzDoPh&index=2)
 
 In this project we have created a Nuxt.js blog with the power of the Tailwind.CSS framework and the `nuxt-content` module.
+
+## Code Sharing Platform (3. Advent)
+
+Link to project: [click me](https://github.com/daycademy/advent-2020/tree/master/code-sharing)<br/>
+Link to video: [click me](https://www.youtube.com/watch?v=rcy4ll61dWg&feature=youtu.be)
+
+In this small project we've created with the help of Vue Router, Bootstrap, Codemirror and plain Vue.js to write a small code sharing platform.
